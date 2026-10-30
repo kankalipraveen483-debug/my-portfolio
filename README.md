@@ -3,6 +3,14 @@
 welcome to my GitHub profile
 
 ##about me
+Hello I am computer science student interested in web development, programming and technology 
+
+This repository showcase my journey, technical skills and projects.
+
+##Skills
+-HTML
+-CSS
+-Javascript
 
 
 ###personal portfolio website
